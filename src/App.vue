@@ -1,5 +1,8 @@
 <template>
-   <div>daad</div>
+   <div>
+      <div>Main</div>
+      <router-view></router-view>
+   </div>
 </template>
 
 <script>
